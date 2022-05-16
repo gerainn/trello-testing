@@ -7,6 +7,7 @@
     "defaultCommandTimeout": 8000,
     "baseUrl": "https://trello.com/b/WobiSXIJ/newboard",
     "screenshotsFolder": "cypress/temp/screenshots",
+    "videosFolder": "cypress/temp/videos",
     "reporter": "junit",
     "reporterOptions": {
         "mochaFile": "cypress/temp/reports/report-[hash].xml",
