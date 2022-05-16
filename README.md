@@ -20,6 +20,6 @@
 
 ## 2.
 
-1. In file ```package.json``` you will be able to see all scripts for Windows/Mac (win/mac)
+1. In file ```package.json``` you will be able to see all scripts
 2. ```npm run cy``` - to run tests in cypress UI manually
 3. ```npm t``` - to run all test and see results in terminal 
