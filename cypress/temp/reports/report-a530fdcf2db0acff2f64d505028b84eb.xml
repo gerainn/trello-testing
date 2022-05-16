@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.1250" tests="15" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-05-16T03:17:06" tests="0" file="cypress/specs/regression/header.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Page Elements" timestamp="2022-05-16T03:17:07" tests="8" time="14.2680" failures="0">
+    <testcase name="Page Elements Verify that page Header is presented" time="13.0750" classname="Verify that page Header is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that trello Logo is presented" time="0.7650" classname="Verify that trello Logo is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Features button is presented" time="0.0600" classname="Verify that Features button is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Solutions button is presented" time="0.0750" classname="Verify that Solutions button is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Plans button is presented" time="0.0680" classname="Verify that Plans button is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Pricing link is presented" time="0.0870" classname="Verify that Pricing link is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Resources button is presented" time="0.0650" classname="Verify that Resources button is presented">
+    </testcase>
+    <testcase name="Page Elements Verify that Login Link is presented" time="0.0730" classname="Verify that Login Link is presented">
+    </testcase>
+  </testsuite>
+  <testsuite name="Value of Elements" timestamp="2022-05-16T03:17:21" tests="2" time="0.3440" failures="0">
+    <testcase name="Value of Elements Check Pricing link text" time="0.2860" classname="Check Pricing link text">
+    </testcase>
+    <testcase name="Value of Elements Check Login link text" time="0.0580" classname="Check Login link text">
+    </testcase>
+  </testsuite>
+  <testsuite name="Functionality of Elements" timestamp="2022-05-16T03:17:21" tests="5" time="6.5130" failures="0">
+    <testcase name="Functionality of Elements Verify that clicking on Features button user is able to see dropdown menu" time="0.3160" classname="Verify that clicking on Features button user is able to see dropdown menu">
+    </testcase>
+    <testcase name="Functionality of Elements Verify that clicking on Solution button user is able to see dropdown menu" time="0.3180" classname="Verify that clicking on Solution button user is able to see dropdown menu">
+    </testcase>
+    <testcase name="Functionality of Elements Verify that clicking on Plans button user is able to see dropdown menu" time="0.3570" classname="Verify that clicking on Plans button user is able to see dropdown menu">
+    </testcase>
+    <testcase name="Functionality of Elements Verify that clicking on Resources button user is able to see dropdown menu" time="0.3690" classname="Verify that clicking on Resources button user is able to see dropdown menu">
+    </testcase>
+    <testcase name="Functionality of Elements Verify that clicking on Pricing link user is redirected on Pricing Page" time="5.1530" classname="Verify that clicking on Pricing link user is redirected on Pricing Page">
+    </testcase>
+  </testsuite>
+</testsuites>

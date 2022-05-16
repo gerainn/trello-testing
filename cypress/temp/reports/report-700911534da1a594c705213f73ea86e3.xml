@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="23.0610" tests="4" failures="3">
+  <testsuite name="Root Suite" timestamp="2022-05-12T15:34:24" tests="0" file="cypress/specs/regression/login.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Login to Trello" timestamp="2022-05-12T15:34:24" tests="4" time="23.0610" failures="3">
+    <testcase name="Login to Trello Verify that user can open login page" time="23.0610" classname="Verify that user can open login page">
+    </testcase>
+    <testcase name="Login to Trello Verify that user can enter email" time="0.0000" classname="Verify that user can enter email">
+      <failure message="Timed out retrying after 8000ms: Expected to find element: `#user`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 8000ms: Expected to find element: `#user`, but never found it.
+    at Object.enterEmail (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:174:6)
+    at Context.eval (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:129:20)]]></failure>
+    </testcase>
+    <testcase name="Login to Trello Verify that user can enter password" time="0.0000" classname="Verify that user can enter password">
+      <failure message="Timed out retrying after 8000ms: Expected to find element: `#password`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 8000ms: Expected to find element: `#password`, but never found it.
+    at Object.enterPassword (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:178:6)
+    at Context.eval (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:136:20)]]></failure>
+    </testcase>
+    <testcase name="Login to Trello Verify that user can access trello Board Page" time="0.0000" classname="Verify that user can access trello Board Page">
+      <failure message="Timed out retrying after 8000ms: Expected to find element: `#login-submit`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 8000ms: Expected to find element: `#login-submit`, but never found it.
+    at Object.clickAttlasianLoginBtn (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:190:6)
+    at Context.eval (https://trello.com/__cypress/tests?p=cypress\specs\regression\login.js:139:20)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

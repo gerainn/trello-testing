@@ -1,0 +1,16 @@
+{
+    "viewportWidth": 1000,
+    "viewportHeight": 1280,
+    "videoUploadOnPasses": false,
+    "chromeWebSecurity": false,
+    "integrationFolder": "cypress/specs",
+    "defaultCommandTimeout": 8000,
+    "baseUrl": "https://trello.com/b/WobiSXIJ/newboard",
+    "screenshotsFolder": "cypress/temp/screenshots",
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "cypress/temp/reports/report-[hash].xml",
+        "toConsole": true
+    },
+    "watchForFileChanges": false
+}
