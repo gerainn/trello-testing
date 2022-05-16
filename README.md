@@ -2,8 +2,6 @@
 ---
 ## Prerequisites:
 1. [Node.js](https://nodejs.org/)
-2. [JAVA](https://www.java.com/en/download/)
-3. [Python](https://www.python.org/downloads/)
 3. [Git](https://git-scm.com/)
 4. [VisualStudioCode](https://code.visualstudio.com/download)
 5. Install/Update [Chrome browser](https://www.google.com/chrome/) to the latest version
