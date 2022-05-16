@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="9.5270" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-05-09T04:55:58" tests="0" file="cypress/specs/regression/base.js" time="0.0000" failures="0">
-  </testsuite>
-  <testsuite name="Open" timestamp="2022-05-09T04:55:58" tests="1" time="9.5270" failures="0">
-    <testcase name="Open Test" time="9.5270" classname="Test">
-    </testcase>
-  </testsuite>
-</testsuites>
